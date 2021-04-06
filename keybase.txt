@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/preditor
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.preditor.uk
+  * I am preditor (https://keybase.io/preditor) on keybase.
+  * I have a public key ASDT_qIkbLZ85DMXgILlYzoBxnEkTdJP11EpXgmQiCtjcQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01012b1cb71e7a1d71ddba1272eed675050aba15caeb45545c897d60cf5e9443545a0a",
+      "host": "keybase.io",
+      "kid": "0120d3fea2246cb67ce433178082e5633a01c671244dd24fd751295e0990882b63710a",
+      "uid": "569e577a244ed2690ef1c8dba4d92919",
+      "username": "preditor"
+    },
+    "merkle_root": {
+      "ctime": 1617728360,
+      "hash": "71679a82edb263f2384f90140782420797c5771f281a21e9423e39cf72e2d63d3690ce65dc8644fb8a1f0295ed5bb76a99541175e8139320f7a3b7ac11e31645",
+      "hash_meta": "86689169012661485ec79346f326b40c5f3f7a1c5ba6f304cd1157575fd4edb3",
+      "seqno": 19561122
+    },
+    "service": {
+      "entropy": "p1RF8PVQAsNk0Tc2nSwgzsVS",
+      "hostname": "www.preditor.uk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.1"
+  },
+  "ctime": 1617728389,
+  "expire_in": 504576000,
+  "prev": "b9b38992797ce767088dbefb5d59a4721b9139f5f039bf661813d7e877676468",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0/6iJGy2fOQzF4CC5WM6AcZxJE3ST9dRKV4JkIgrY3EKp3BheWxvYWTESpcCEMQgubOJknl852cIjb77XVmkchuROfXwOb9mGBPX6HdnZGjEIPPB0VPZq3cxhGieakQ20lQCVQ8Fvk51LF0onNrT2DauAgHCo3NpZ8RAWa+2kEvCczpxNasaJySjBcwrXEO1m71ppQ/Yfd+HlzSZesP+6KbpVbUUibaoAlXyt2FSVatE/DLzmHCSwEtiA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEII4fDMotQjA1QHFBbC53gs94Qr0XcOQNO+QpMAEsgNBSo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/preditor
+
+==================================================================
