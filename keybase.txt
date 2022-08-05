@@ -52,3 +52,78 @@ appending to this document.
 
 View my publicly-auditable identity here: https://keybase.io/preditor
 
+
+==================================================================
+https://keybase.io/preditor
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.preditor.uk
+  * I am preditor (https://keybase.io/preditor) on keybase.
+  * I have a public key with fingerprint CF16 B58D 2B5B 99DA C7CE  D7A2 5D68 530B C7EB AC43
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208df2fe9dff6f9099a24afb11d31476432e883253c3be655d17de52edcd85f9100a",
+      "fingerprint": "cf16b58d2b5b99dac7ced7a25d68530bc7ebac43",
+      "host": "keybase.io",
+      "key_id": "5d68530bc7ebac43",
+      "kid": "0101611ffa3c68e0c9bc340b2e7d7acc7af494493417f1202d3c8faf23037665d5780a",
+      "uid": "569e577a244ed2690ef1c8dba4d92919",
+      "username": "preditor"
+    },
+    "service": {
+      "hostname": "www.preditor.uk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1659730359,
+  "expire_in": 157680000,
+  "prev": "50a2b6be31884c3868ce8665fd61a001f282a1ba698149afd9f9c7f90dc36c96",
+  "seqno": 39,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUm1QVFUYXkyMjxBDYGIQdO8QosDO/b73LBglSE0yEJrDADp47z3nwmVhd929
+fCwfEyUESNBaO46UKeiEEyg2DYw4aWKDabBCIIwK0kxDVBRSOPkjyeguyb/OnzPn
+Pc/zvM/znuMMeEbn43WgYK//jd/OJXsNzYk68YHjViUmWqADM1ZiJrSyoSKI7Gqe
+SYGYEcMJEuehTMoIQFlmZYADIJC0IIsEASmC5liaIhHPUyRDSZSIWIaBBAcRQyIo
+QZ6RAYHjAhaHyYo5H9msNsWsarKSTLAiw0NSZEQAoCBxEoKcQDKQ5RkKFyUOiYJE
+UxqxwGL3MDRzomBHBsWi1bRD3oq9/8Gv+sYJliBkWaAklke4BESJonGRRJzWR5I4
+QaYBTQOKJjhZy0hCSuJlQSYpnOJYloEMx6/4LvmvDwsQw2kGaRpBkgU4kgmJh6JA
+Q0ACAniAdmQzC8VIQ1ttCCqqxYZVx2FatVSRkGewniRPEWVlZYZVlKHEpNGtNotq
+kSxF2mWBqlrtRg9ZdVhX0EjMe6qTJypmqI1SY5Qim12xmDEjoSElVfEIEywDOC0C
+A+IwVG5VbChP8SAYjuVxbXn6oFJPIFwg94usiCiC52mJ4lleQrwWXIYsIeA4IZM8
+KRCiwAKeoIEgQyADidPeH0oUKwEW80Q7ZLZgRkrrpQr5mqhdyTcLaokNYdV+jWuo
+tTovH11EqH7tSGhvc2xu6+SN4TunV/+f9xrP59P5+W5YrbCTgcvmYoc9XX8moiao
+z9AIkr+JX1qsdrimOl9ofNayMbUiecB1sXLKO8Rdq1ZM6H90udMON89efZiVnNEN
+3G1nvx8+s+v9yxsa7vuG1d+ZX5w8a7i50O76Mzat5dDClYTMh7aPVGfSW41d2TMj
+UaPfGdpd4+5H//Q4PifWOXs+cwf76d9YH3piy2DgfM9wbHp2edVYzEt403LGTFth
+a16AOrZxR11ka7SjYX7Ju4PvGl08X7jgvzVy3KjqfCIWDYnuo8/F6D8NjMxNgSEX
+rr4Ka49FfLG53/uKsGwLmB7a/XftETZ2e1H81xP3ds2aCp/8sTdldHTna87+JCUr
+4WBpw3V7t75v2jh9L7LB2bCjPPjoZf9Hd7MXksvL1wF9dRUUwvfVfHLxp51NObsL
+wtvaPw7rPjFTZar5ecKpDmzySvUuzto//tUxR8b5a0mn4u6eG2o5ef/wnufTAlO2
+Zo49YdJerksUEj/UH08yvR28HHTc/ma8V9/mzIm/6jPtlpbO9KR3H6zfs81tjaa7
+6N8XpgoGY0xt4be5ZvZxelbGL1z+K1sONPVeuhbbv/11/vR8/cHA279m78P0Wd7f
++qXeqkLy0nj0Ka+M8k0n68K4H4oxXCnJyXnv0vXOwYQBswsTg1yLuVEXtoWGVHxZ
+aGJGuKWom8ws1PnOjXa80/ti+AdzHaEW5XFb2L8=
+=Ptjc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/preditor
+
+==================================================================
+
